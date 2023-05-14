@@ -4,8 +4,8 @@ PJS is a utility class for writing and reading JSON data in Python.
 pip install p-js-rs==0.0.1
 
 
-Example Usage
-from p_js import PJS
+#Example Usage
+from p_js.p_js import PJS
 
 data = {"key": "value"}
 
